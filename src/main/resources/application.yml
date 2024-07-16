@@ -3,9 +3,9 @@
   
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/spring-blog
-    username: postgres
-    password: root
+    url: jdbc:postgresql://dpg-cqav4po8fa8c73atq1a0-a.singapore-postgres.render.com:5432/springblog
+    username: root
+    password: R8bePxRjjL3s59fzhUmUMSiKIMrYY1QN
     hikari:
       connection-timeout: 20000
       minimum-idle: 5
